@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "Embeddings Concat 4 últimas camadas BERTimbau"
+  metadata_path: "/content/SRI/projector/meta_documento_768_base_CLS.tsv"
+  tensor_path: "/content/SRI/projector/records_documento_768_base_CLS.tsv"
+}

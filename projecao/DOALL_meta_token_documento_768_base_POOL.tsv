@@ -1,0 +1,465 @@
+Token	POS-Tag	OOV	Id	Index	Granularidade	Documento
+The	PROPN	0	1	0	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+Pixies	PROPN	1	1	1	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+are	PROPN	0	1	2	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+an	PROPN	0	1	3	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+American	PROPN	0	1	4	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+alternative	PROPN	1	1	5	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+rock	ADJ	0	1	6	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+band	X	0	1	7	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+formed	PROPN	1	1	8	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+in	PROPN	0	1	9	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+Boston	PROPN	0	1	10	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+;	PUNCT	0	1	11	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+Massachusetts	PROPN	0	1	12	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+;	PUNCT	0	1	13	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+in	NOUN	0	1	14	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+1986	NUM	0	1	15	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+.	PUNCT	0	1	16	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+0	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'ADJ', 'X', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'NUM', 'PUNCT']	[0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	1	0	1	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+Queens	PROPN	0	2	0	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+of	PROPN	0	2	1	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+the	PROPN	0	2	2	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+Stone	PROPN	0	2	3	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+Age	PROPN	0	2	4	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+is	PROPN	0	2	5	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+an	PROPN	0	2	6	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+American	PROPN	0	2	7	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+rock	PROPN	0	2	8	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+band	X	0	2	9	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+formed	PROPN	1	2	10	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+in	PROPN	0	2	11	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+Seattle	PROPN	0	2	12	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+in	PROPN	0	2	13	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+1996	NUM	0	2	14	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+1	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	2	1	1	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+The	PROPN	0	3	0	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+Beatles	PROPN	0	3	1	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+were	PROPN	1	3	2	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+an	PROPN	0	3	3	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+English	PROPN	1	3	4	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+rock	PROPN	0	3	5	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+band	X	0	3	6	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+formed	PROPN	1	3	7	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+in	PROPN	0	3	8	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+Liverpool	PROPN	0	3	9	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+in	ADP	0	3	10	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+1960	NUM	0	3	11	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+.	PUNCT	0	3	12	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+2	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'ADP', 'NUM', 'PUNCT']	[0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]	3	2	1	The Beatles were an English rock band formed in Liverpool in 1960 .
+The	PROPN	0	4	0	0	The Rolling Stones are an English rock band formed in London in 1962 .
+Rolling	PROPN	0	4	1	0	The Rolling Stones are an English rock band formed in London in 1962 .
+Stones	PROPN	0	4	2	0	The Rolling Stones are an English rock band formed in London in 1962 .
+are	PROPN	0	4	3	0	The Rolling Stones are an English rock band formed in London in 1962 .
+an	PROPN	0	4	4	0	The Rolling Stones are an English rock band formed in London in 1962 .
+English	PROPN	1	4	5	0	The Rolling Stones are an English rock band formed in London in 1962 .
+rock	PROPN	0	4	6	0	The Rolling Stones are an English rock band formed in London in 1962 .
+band	X	0	4	7	0	The Rolling Stones are an English rock band formed in London in 1962 .
+formed	PROPN	1	4	8	0	The Rolling Stones are an English rock band formed in London in 1962 .
+in	PROPN	0	4	9	0	The Rolling Stones are an English rock band formed in London in 1962 .
+London	PROPN	0	4	10	0	The Rolling Stones are an English rock band formed in London in 1962 .
+in	PROPN	0	4	11	0	The Rolling Stones are an English rock band formed in London in 1962 .
+1962	NUM	0	4	12	0	The Rolling Stones are an English rock band formed in London in 1962 .
+.	PUNCT	0	4	13	0	The Rolling Stones are an English rock band formed in London in 1962 .
+3	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]	4	3	1	The Rolling Stones are an English rock band formed in London in 1962 .
+Led	PROPN	1	5	0	0	Led Zeppelin were an English rock band formed in London in 1968 .
+Zeppelin	PROPN	1	5	1	0	Led Zeppelin were an English rock band formed in London in 1968 .
+were	PROPN	1	5	2	0	Led Zeppelin were an English rock band formed in London in 1968 .
+an	PROPN	0	5	3	0	Led Zeppelin were an English rock band formed in London in 1968 .
+English	PROPN	1	5	4	0	Led Zeppelin were an English rock band formed in London in 1968 .
+rock	PROPN	0	5	5	0	Led Zeppelin were an English rock band formed in London in 1968 .
+band	X	0	5	6	0	Led Zeppelin were an English rock band formed in London in 1968 .
+formed	PROPN	1	5	7	0	Led Zeppelin were an English rock band formed in London in 1968 .
+in	PROPN	0	5	8	0	Led Zeppelin were an English rock band formed in London in 1968 .
+London	PROPN	0	5	9	0	Led Zeppelin were an English rock band formed in London in 1968 .
+in	PROPN	0	5	10	0	Led Zeppelin were an English rock band formed in London in 1968 .
+1968	PROPN	0	5	11	0	Led Zeppelin were an English rock band formed in London in 1968 .
+.	PUNCT	0	5	12	0	Led Zeppelin were an English rock band formed in London in 1968 .
+4	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]	5	4	1	Led Zeppelin were an English rock band formed in London in 1968 .
+Metallica	PROPN	1	6	0	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+is	PROPN	0	6	1	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+an	PROPN	0	6	2	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+American	PROPN	0	6	3	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+heavy	PROPN	0	6	4	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+metal	PROPN	0	6	5	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+band	X	0	6	6	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+.	PUNCT	0	6	7	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+It	PROPN	0	6	8	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+was	PROPN	1	6	9	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+formed	PROPN	1	6	10	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+in	PROPN	0	6	11	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+Los	PROPN	0	6	12	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+Angeles	PROPN	0	6	13	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+in	PROPN	0	6	14	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+1981	NUM	0	6	15	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+5	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]	6	5	1	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+The	PROPN	0	7	0	0	The Police were an English rock band formed in London in 1977 .
+Police	PROPN	1	7	1	0	The Police were an English rock band formed in London in 1977 .
+were	PROPN	1	7	2	0	The Police were an English rock band formed in London in 1977 .
+an	PROPN	0	7	3	0	The Police were an English rock band formed in London in 1977 .
+English	PROPN	1	7	4	0	The Police were an English rock band formed in London in 1977 .
+rock	PROPN	0	7	5	0	The Police were an English rock band formed in London in 1977 .
+band	X	0	7	6	0	The Police were an English rock band formed in London in 1977 .
+formed	PROPN	1	7	7	0	The Police were an English rock band formed in London in 1977 .
+in	PROPN	0	7	8	0	The Police were an English rock band formed in London in 1977 .
+London	PROPN	0	7	9	0	The Police were an English rock band formed in London in 1977 .
+in	PROPN	0	7	10	0	The Police were an English rock band formed in London in 1977 .
+1977	PROPN	0	7	11	0	The Police were an English rock band formed in London in 1977 .
+.	PUNCT	0	7	12	0	The Police were an English rock band formed in London in 1977 .
+6	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]	7	6	1	The Police were an English rock band formed in London in 1977 .
+The	PROPN	0	8	0	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+Offspring	PROPN	1	8	1	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+is	PROPN	0	8	2	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+an	PROPN	0	8	3	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+American	PROPN	0	8	4	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+rock	PROPN	0	8	5	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+band	X	0	8	6	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+formed	PROPN	1	8	7	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+in	PROPN	0	8	8	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+Garden	PROPN	0	8	9	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+Grove	PROPN	1	8	10	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+;	PUNCT	0	8	11	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+California	PROPN	0	8	12	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+;	PUNCT	0	8	13	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+in	X	0	8	14	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+1984	PROPN	0	8	15	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+.	PUNCT	0	8	16	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+7	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'PROPN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]	8	7	1	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+Weezer	PROPN	1	9	0	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+is	PROPN	0	9	1	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+an	PROPN	0	9	2	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+American	PROPN	0	9	3	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+rock	PROPN	0	9	4	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+band	X	0	9	5	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+formed	PROPN	1	9	6	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+in	PROPN	0	9	7	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+Los	PROPN	0	9	8	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+Angeles	PROPN	0	9	9	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+;	PUNCT	0	9	10	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+California	PROPN	0	9	11	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+;	PUNCT	0	9	12	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+in	X	0	9	13	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+1992	NUM	0	9	14	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+.	PUNCT	0	9	15	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+8	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM', 'PUNCT']	[1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]	9	8	1	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+Lacuna	PROPN	1	10	0	0	Lacuna Coil is an Italian heavy metal band from Milan .
+Coil	PROPN	1	10	1	0	Lacuna Coil is an Italian heavy metal band from Milan .
+is	PROPN	0	10	2	0	Lacuna Coil is an Italian heavy metal band from Milan .
+an	PROPN	0	10	3	0	Lacuna Coil is an Italian heavy metal band from Milan .
+Italian	PROPN	1	10	4	0	Lacuna Coil is an Italian heavy metal band from Milan .
+heavy	PROPN	0	10	5	0	Lacuna Coil is an Italian heavy metal band from Milan .
+metal	PROPN	0	10	6	0	Lacuna Coil is an Italian heavy metal band from Milan .
+band	X	0	10	7	0	Lacuna Coil is an Italian heavy metal band from Milan .
+from	PROPN	0	10	8	0	Lacuna Coil is an Italian heavy metal band from Milan .
+Milan	PROPN	0	10	9	0	Lacuna Coil is an Italian heavy metal band from Milan .
+.	PUNCT	0	10	10	0	Lacuna Coil is an Italian heavy metal band from Milan .
+9	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PUNCT']	[1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]	10	9	1	Lacuna Coil is an Italian heavy metal band from Milan .
+Queen	PROPN	0	11	0	0	Queen are a British rock band formed in London in 1970 .
+are	PROPN	0	11	1	0	Queen are a British rock band formed in London in 1970 .
+a	DET	0	11	2	0	Queen are a British rock band formed in London in 1970 .
+British	PROPN	0	11	3	0	Queen are a British rock band formed in London in 1970 .
+rock	PROPN	0	11	4	0	Queen are a British rock band formed in London in 1970 .
+band	X	0	11	5	0	Queen are a British rock band formed in London in 1970 .
+formed	PROPN	1	11	6	0	Queen are a British rock band formed in London in 1970 .
+in	PROPN	0	11	7	0	Queen are a British rock band formed in London in 1970 .
+London	PROPN	0	11	8	0	Queen are a British rock band formed in London in 1970 .
+in	PROPN	0	11	9	0	Queen are a British rock band formed in London in 1970 .
+1970	PROPN	0	11	10	0	Queen are a British rock band formed in London in 1970 .
+.	PUNCT	0	11	11	0	Queen are a British rock band formed in London in 1970 .
+10	['PROPN', 'PROPN', 'DET', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]	11	10	1	Queen are a British rock band formed in London in 1970 .
+Black	PROPN	0	12	0	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+Sabbath	PROPN	1	12	1	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+were	PROPN	1	12	2	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+an	PROPN	0	12	3	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+English	PROPN	1	12	4	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+heavy	PROPN	0	12	5	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+metal	ADJ	0	12	6	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+band	X	0	12	7	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+formed	PROPN	1	12	8	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+in	PROPN	0	12	9	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+Birmingham	PROPN	1	12	10	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+in	PROPN	0	12	11	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+1968	PROPN	0	12	12	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+11	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'ADJ', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']	[0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0]	12	11	1	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+The	PROPN	0	13	0	0	The Doors were an American rock band formed in Los Angeles in 1965
+Doors	PROPN	1	13	1	0	The Doors were an American rock band formed in Los Angeles in 1965
+were	PROPN	1	13	2	0	The Doors were an American rock band formed in Los Angeles in 1965
+an	PROPN	0	13	3	0	The Doors were an American rock band formed in Los Angeles in 1965
+American	PROPN	0	13	4	0	The Doors were an American rock band formed in Los Angeles in 1965
+rock	PROPN	0	13	5	0	The Doors were an American rock band formed in Los Angeles in 1965
+band	X	0	13	6	0	The Doors were an American rock band formed in Los Angeles in 1965
+formed	PROPN	1	13	7	0	The Doors were an American rock band formed in Los Angeles in 1965
+in	PROPN	0	13	8	0	The Doors were an American rock band formed in Los Angeles in 1965
+Los	PROPN	0	13	9	0	The Doors were an American rock band formed in Los Angeles in 1965
+Angeles	PROPN	0	13	10	0	The Doors were an American rock band formed in Los Angeles in 1965
+in	PROPN	0	13	11	0	The Doors were an American rock band formed in Los Angeles in 1965
+1965	NUM	0	13	12	0	The Doors were an American rock band formed in Los Angeles in 1965
+12	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]	13	12	1	The Doors were an American rock band formed in Los Angeles in 1965
+Pink	PROPN	0	14	0	0	Pink Floyd are an English rock band formed in London in 1965
+Floyd	PROPN	1	14	1	0	Pink Floyd are an English rock band formed in London in 1965
+are	PROPN	0	14	2	0	Pink Floyd are an English rock band formed in London in 1965
+an	PROPN	0	14	3	0	Pink Floyd are an English rock band formed in London in 1965
+English	PROPN	1	14	4	0	Pink Floyd are an English rock band formed in London in 1965
+rock	PROPN	0	14	5	0	Pink Floyd are an English rock band formed in London in 1965
+band	X	0	14	6	0	Pink Floyd are an English rock band formed in London in 1965
+formed	PROPN	1	14	7	0	Pink Floyd are an English rock band formed in London in 1965
+in	PROPN	0	14	8	0	Pink Floyd are an English rock band formed in London in 1965
+London	PROPN	0	14	9	0	Pink Floyd are an English rock band formed in London in 1965
+in	PROPN	0	14	10	0	Pink Floyd are an English rock band formed in London in 1965
+1965	NUM	0	14	11	0	Pink Floyd are an English rock band formed in London in 1965
+13	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]	14	13	1	Pink Floyd are an English rock band formed in London in 1965
+The	PROPN	0	15	0	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+Smashing	PROPN	1	15	1	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+Pumpkins	PROPN	1	15	2	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+is	PROPN	0	15	3	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+an	PROPN	0	15	4	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+American	PROPN	0	15	5	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+alternative	PROPN	1	15	6	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+rock	ADJ	0	15	7	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+band	X	0	15	8	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+formed	PROPN	1	15	9	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+in	PROPN	0	15	10	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+Chicago	PROPN	0	15	11	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+in	PROPN	0	15	12	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+1988	NUM	0	15	13	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+14	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'ADJ', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]	15	14	1	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+Alice	PROPN	0	16	0	0	Alice in Chains is an American rock band formed in Seattle in 1987
+in	PROPN	0	16	1	0	Alice in Chains is an American rock band formed in Seattle in 1987
+Chains	PROPN	1	16	2	0	Alice in Chains is an American rock band formed in Seattle in 1987
+is	PROPN	0	16	3	0	Alice in Chains is an American rock band formed in Seattle in 1987
+an	PROPN	0	16	4	0	Alice in Chains is an American rock band formed in Seattle in 1987
+American	PROPN	0	16	5	0	Alice in Chains is an American rock band formed in Seattle in 1987
+rock	PROPN	0	16	6	0	Alice in Chains is an American rock band formed in Seattle in 1987
+band	X	0	16	7	0	Alice in Chains is an American rock band formed in Seattle in 1987
+formed	PROPN	1	16	8	0	Alice in Chains is an American rock band formed in Seattle in 1987
+in	PROPN	0	16	9	0	Alice in Chains is an American rock band formed in Seattle in 1987
+Seattle	PROPN	0	16	10	0	Alice in Chains is an American rock band formed in Seattle in 1987
+in	PROPN	0	16	11	0	Alice in Chains is an American rock band formed in Seattle in 1987
+1987	NUM	0	16	12	0	Alice in Chains is an American rock band formed in Seattle in 1987
+15	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]	16	15	1	Alice in Chains is an American rock band formed in Seattle in 1987
+Linkin	PROPN	1	17	0	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+Park	PROPN	0	17	1	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+is	PROPN	0	17	2	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+an	PROPN	0	17	3	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+American	PROPN	0	17	4	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+rock	PROPN	0	17	5	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+band	X	0	17	6	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+formed	PROPN	1	17	7	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+in	PROPN	0	17	8	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+Agoura	PROPN	1	17	9	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+Hills	PROPN	0	17	10	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+;	PUNCT	0	17	11	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+California	PROPN	0	17	12	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+;	PUNCT	0	17	13	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+in	X	0	17	14	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+1996	NUM	0	17	15	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+.	PUNCT	0	17	16	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+16	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM', 'PUNCT']	[1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]	17	16	1	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+The	PROPN	0	18	0	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+Foo	PROPN	1	18	1	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+Fighters	PROPN	1	18	2	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+are	PROPN	0	18	3	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+an	PROPN	0	18	4	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+American	PROPN	0	18	5	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+rock	PROPN	0	18	6	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+band	X	0	18	7	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+formed	PROPN	1	18	8	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+in	PROPN	0	18	9	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+Seattle	PROPN	0	18	10	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+in	PROPN	0	18	11	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+1994	PROPN	0	18	12	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+.	PUNCT	0	18	13	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+17	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]	18	17	1	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+The	PROPN	0	19	0	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Cardigans	PROPN	1	19	1	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+are	PROPN	0	19	2	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+a	DET	0	19	3	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Swedish	PROPN	1	19	4	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+rock	PROPN	0	19	5	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+band	X	0	19	6	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+formed	PROPN	1	19	7	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+in	PROPN	0	19	8	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Jönköping	PROPN	1	19	9	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+;	PUNCT	0	19	10	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Sweden	PROPN	1	19	11	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+in	PROPN	0	19	12	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+1992	PROPN	0	19	13	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+.	PUNCT	0	19	14	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+18	['PROPN', 'PROPN', 'PROPN', 'DET', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0]	19	18	1	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Pearl	PROPN	0	20	0	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+Jam	PROPN	0	20	1	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+is	PROPN	0	20	2	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+an	PROPN	0	20	3	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+American	PROPN	0	20	4	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+rock	PROPN	0	20	5	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+band	X	0	20	6	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+formed	PROPN	1	20	7	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+in	PROPN	0	20	8	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+Seattle	PROPN	0	20	9	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+;	PUNCT	0	20	10	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+Washington	PROPN	0	20	11	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+;	PUNCT	0	20	12	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+in	X	0	20	13	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+1990	NUM	0	20	14	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+.	PUNCT	0	20	15	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+19	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	20	19	1	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+Type	NOUN	1	21	0	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+O	DET	0	21	1	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+Negative	PROPN	1	21	2	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+was	PROPN	1	21	3	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+an	PROPN	0	21	4	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+American	PROPN	0	21	5	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+gothic	PROPN	1	21	6	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+doom	X	1	21	7	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+metal	ADJ	0	21	8	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+band	X	0	21	9	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+from	PROPN	0	21	10	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+Brooklyn	PROPN	0	21	11	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+;	PUNCT	0	21	12	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+New	PROPN	0	21	13	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+York	PROPN	0	21	14	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+;	PUNCT	0	21	15	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+formed	PROPN	1	21	16	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+in	X	0	21	17	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+1989	PROPN	0	21	18	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+.	PUNCT	0	21	19	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+20	['NOUN', 'DET', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'ADJ', 'X', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'X', 'PROPN', 'PUNCT']	[1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]	21	20	1	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+Stone	PROPN	0	22	0	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+Temple	PROPN	1	22	1	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+Pilots	PROPN	1	22	2	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+are	PROPN	0	22	3	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+an	PROPN	0	22	4	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+American	PROPN	0	22	5	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+rock	PROPN	0	22	6	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+band	X	0	22	7	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+formed	PROPN	1	22	8	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+in	PROPN	0	22	9	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+San	PROPN	0	22	10	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+Diego	PROPN	0	22	11	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+;	PUNCT	0	22	12	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+California	PROPN	0	22	13	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+;	PUNCT	0	22	14	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+in	X	0	22	15	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+1989	NUM	0	22	16	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+.	PUNCT	0	22	17	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+21	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM', 'PUNCT']	[0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]	22	21	1	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+Silverchair	PROPN	1	23	0	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+were	PROPN	1	23	1	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+an	PROPN	0	23	2	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+Australian	PROPN	1	23	3	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+rock	PROPN	0	23	4	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+band	X	0	23	5	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+;	PUNCT	0	23	6	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+which	PROPN	1	23	7	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+formed	PROPN	1	23	8	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+in	PROPN	0	23	9	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+1992	PROPN	0	23	10	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+in	PROPN	0	23	11	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+Newcastle	PROPN	1	23	12	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+;	PUNCT	0	23	13	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+New	PROPN	0	23	14	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+South	PROPN	0	23	15	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+Wales	PROPN	1	23	16	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+22	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN']	[1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1]	23	22	1	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+The	PROPN	0	24	0	0	The Cure are an English rock band formed in Crawley in 1976
+Cure	PROPN	1	24	1	0	The Cure are an English rock band formed in Crawley in 1976
+are	PROPN	0	24	2	0	The Cure are an English rock band formed in Crawley in 1976
+an	PROPN	0	24	3	0	The Cure are an English rock band formed in Crawley in 1976
+English	PROPN	1	24	4	0	The Cure are an English rock band formed in Crawley in 1976
+rock	PROPN	0	24	5	0	The Cure are an English rock band formed in Crawley in 1976
+band	X	0	24	6	0	The Cure are an English rock band formed in Crawley in 1976
+formed	PROPN	1	24	7	0	The Cure are an English rock band formed in Crawley in 1976
+in	PROPN	0	24	8	0	The Cure are an English rock band formed in Crawley in 1976
+Crawley	PROPN	1	24	9	0	The Cure are an English rock band formed in Crawley in 1976
+in	PROPN	0	24	10	0	The Cure are an English rock band formed in Crawley in 1976
+1976	NUM	0	24	11	0	The Cure are an English rock band formed in Crawley in 1976
+23	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]	24	23	1	The Cure are an English rock band formed in Crawley in 1976
+The	PROPN	0	25	0	0	The Smiths were an English rock band formed in Manchester in 1982
+Smiths	PROPN	1	25	1	0	The Smiths were an English rock band formed in Manchester in 1982
+were	PROPN	1	25	2	0	The Smiths were an English rock band formed in Manchester in 1982
+an	PROPN	0	25	3	0	The Smiths were an English rock band formed in Manchester in 1982
+English	PROPN	1	25	4	0	The Smiths were an English rock band formed in Manchester in 1982
+rock	PROPN	0	25	5	0	The Smiths were an English rock band formed in Manchester in 1982
+band	X	0	25	6	0	The Smiths were an English rock band formed in Manchester in 1982
+formed	PROPN	1	25	7	0	The Smiths were an English rock band formed in Manchester in 1982
+in	PROPN	0	25	8	0	The Smiths were an English rock band formed in Manchester in 1982
+Manchester	PROPN	0	25	9	0	The Smiths were an English rock band formed in Manchester in 1982
+in	PROPN	0	25	10	0	The Smiths were an English rock band formed in Manchester in 1982
+1982	NUM	0	25	11	0	The Smiths were an English rock band formed in Manchester in 1982
+24	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0]	25	24	1	The Smiths were an English rock band formed in Manchester in 1982
+MGMT	PROPN	1	26	0	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+is	PROPN	0	26	1	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+an	PROPN	0	26	2	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+American	PROPN	0	26	3	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+rock	PROPN	0	26	4	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+band	X	0	26	5	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+formed	PROPN	1	26	6	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+in	PROPN	0	26	7	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+2002	PROPN	0	26	8	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+in	PROPN	0	26	9	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+Middletown	PROPN	1	26	10	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+;	PUNCT	0	26	11	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+Connecticut	PROPN	1	26	12	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+25	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']	[1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]	26	25	1	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+Megadeth	PROPN	1	27	0	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+is	PROPN	0	27	1	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+an	PROPN	0	27	2	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+American	PROPN	0	27	3	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+heavy	PROPN	0	27	4	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+metal	PROPN	0	27	5	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+band	X	0	27	6	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+formed	PROPN	1	27	7	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+in	PROPN	0	27	8	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+Los	PROPN	0	27	9	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+Angeles	PROPN	0	27	10	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+in	PROPN	0	27	11	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+1983	NUM	0	27	12	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+26	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NUM']	[1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]	27	26	1	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+Joy	PROPN	0	28	0	0	Joy Division were an English rock band formed in Salford in 1976 .
+Division	PROPN	1	28	1	0	Joy Division were an English rock band formed in Salford in 1976 .
+were	PROPN	1	28	2	0	Joy Division were an English rock band formed in Salford in 1976 .
+an	PROPN	0	28	3	0	Joy Division were an English rock band formed in Salford in 1976 .
+English	PROPN	1	28	4	0	Joy Division were an English rock band formed in Salford in 1976 .
+rock	PROPN	0	28	5	0	Joy Division were an English rock band formed in Salford in 1976 .
+band	X	0	28	6	0	Joy Division were an English rock band formed in Salford in 1976 .
+formed	PROPN	1	28	7	0	Joy Division were an English rock band formed in Salford in 1976 .
+in	PROPN	0	28	8	0	Joy Division were an English rock band formed in Salford in 1976 .
+Salford	PROPN	1	28	9	0	Joy Division were an English rock band formed in Salford in 1976 .
+in	PROPN	0	28	10	0	Joy Division were an English rock band formed in Salford in 1976 .
+1976	PROPN	0	28	11	0	Joy Division were an English rock band formed in Salford in 1976 .
+.	PUNCT	0	28	12	0	Joy Division were an English rock band formed in Salford in 1976 .
+27	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT']	[0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]	28	27	1	Joy Division were an English rock band formed in Salford in 1976 .
+Soundgarden	PROPN	1	29	0	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+was	PROPN	1	29	1	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+an	PROPN	0	29	2	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+American	PROPN	0	29	3	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+rock	PROPN	0	29	4	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+band	X	0	29	5	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+formed	PROPN	1	29	6	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+in	PROPN	0	29	7	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+Seattle	PROPN	0	29	8	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+;	PUNCT	0	29	9	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+Washington	PROPN	0	29	10	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+;	PUNCT	0	29	11	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+in	X	0	29	12	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+1984	NUM	0	29	13	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+28	['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM']	[1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]	29	28	1	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+System	PROPN	0	30	0	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+of	PROPN	0	30	1	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+a	DET	0	30	2	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+Down	PROPN	0	30	3	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+is	PROPN	0	30	4	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+an	PROPN	0	30	5	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+Armenian-American	PROPN	1	30	6	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+heavy	PROPN	0	30	7	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+metal	PROPN	0	30	8	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+band	X	0	30	9	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+formed	PROPN	1	30	10	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+in	PROPN	0	30	11	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+Glendale	PROPN	1	30	12	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+;	PUNCT	0	30	13	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+California	PROPN	0	30	14	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+;	PUNCT	0	30	15	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+in	X	0	30	16	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+1994	NUM	0	30	17	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+29	['PROPN', 'PROPN', 'DET', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'NUM']	[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]	30	29	1	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994

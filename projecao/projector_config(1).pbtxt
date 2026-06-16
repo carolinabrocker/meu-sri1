@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "Embeddings Última camada BERTimbau"
+  metadata_path: "/content/SRI/projector/DOALL_meta_token_768_base_POOL.tsv"
+  tensor_path: "/content/SRI/projector/DOALL_records_token_768_base_POOL.tsv"
+}

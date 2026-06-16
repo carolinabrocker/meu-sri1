@@ -1,0 +1,74 @@
+Sentença	Id	Index	Granularidade	Documento
+The Pixies are an American alternative rock band formed in Boston; Massachusetts; in 1986.	1	0	0	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+0	1	-1	1	The Pixies are an American alternative rock band formed in Boston ; Massachusetts ; in 1986 .
+Queens of the Stone Age is an American rock band formed in Seattle in 1996	2	0	0	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+1	2	-1	1	Queens of the Stone Age is an American rock band formed in Seattle in 1996
+The Beatles were an English rock band formed in Liverpool in 1960.	3	0	0	The Beatles were an English rock band formed in Liverpool in 1960 .
+2	3	-1	1	The Beatles were an English rock band formed in Liverpool in 1960 .
+The Rolling Stones are an English rock band formed in London in 1962.	4	0	0	The Rolling Stones are an English rock band formed in London in 1962 .
+3	4	-1	1	The Rolling Stones are an English rock band formed in London in 1962 .
+Led Zeppelin were an English rock band formed in London in 1968.	5	0	0	Led Zeppelin were an English rock band formed in London in 1968 .
+4	5	-1	1	Led Zeppelin were an English rock band formed in London in 1968 .
+Metallica is an American heavy metal band.	6	0	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+It was formed in	6	1	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+Los Angeles in	6	2	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+1981	6	3	0	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+5	6	-1	1	Metallica is an American heavy metal band . It was formed in Los Angeles in 1981
+The Police were an English rock band formed in London in 1977.	7	0	0	The Police were an English rock band formed in London in 1977 .
+6	7	-1	1	The Police were an English rock band formed in London in 1977 .
+The Offspring is an American rock band formed in Garden Grove; California; in 1984.	8	0	0	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+7	8	-1	1	The Offspring is an American rock band formed in Garden Grove ; California ; in 1984 .
+Weezer is an American rock band formed in	9	0	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+Los Angeles; California; in 1992.	9	1	0	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+8	9	-1	1	Weezer is an American rock band formed in Los Angeles ; California ; in 1992 .
+Lacuna Coil is an Italian heavy metal band from Milan.	10	0	0	Lacuna Coil is an Italian heavy metal band from Milan .
+9	10	-1	1	Lacuna Coil is an Italian heavy metal band from Milan .
+Queen are a British rock band formed in London in 1970.	11	0	0	Queen are a British rock band formed in London in 1970 .
+10	11	-1	1	Queen are a British rock band formed in London in 1970 .
+Black Sabbath were an English heavy metal band formed in Birmingham in 1968	12	0	0	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+11	12	-1	1	Black Sabbath were an English heavy metal band formed in Birmingham in 1968
+The Doors were an American rock band formed in Los Angeles in 1965	13	0	0	The Doors were an American rock band formed in Los Angeles in 1965
+12	13	-1	1	The Doors were an American rock band formed in Los Angeles in 1965
+Pink Floyd are an English rock band formed in London in 1965	14	0	0	Pink Floyd are an English rock band formed in London in 1965
+13	14	-1	1	Pink Floyd are an English rock band formed in London in 1965
+The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988	15	0	0	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+14	15	-1	1	The Smashing Pumpkins is an American alternative rock band formed in Chicago in 1988
+Alice in Chains is an American rock band formed in Seattle in 1987	16	0	0	Alice in Chains is an American rock band formed in Seattle in 1987
+15	16	-1	1	Alice in Chains is an American rock band formed in Seattle in 1987
+Linkin Park is an American rock band formed in Agoura Hills; California; in 1996.	17	0	0	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+16	17	-1	1	Linkin Park is an American rock band formed in Agoura Hills ; California ; in 1996 .
+The Foo Fighters are an American rock band formed in Seattle in 1994.	18	0	0	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+17	18	-1	1	The Foo Fighters are an American rock band formed in Seattle in 1994 .
+The Cardigans are a Swedish rock band formed in Jönköping; Sweden in 1992.	19	0	0	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+18	19	-1	1	The Cardigans are a Swedish rock band formed in Jönköping ; Sweden in 1992 .
+Pearl Jam is an American rock band formed in Seattle; Washington; in 1990.	20	0	0	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+19	20	-1	1	Pearl Jam is an American rock band formed in Seattle ; Washington ; in 1990 .
+Type	21	0	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+O Negative was an American gothic doom metal	21	1	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+band from	21	2	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+Brooklyn	21	3	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+; New York;	21	4	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+formed in 1989.	21	5	0	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+20	21	-1	1	Type O Negative was an American gothic doom metal band from Brooklyn ; New York ; formed in 1989 .
+Stone Temple Pilots are an American rock band formed in San Diego; California; in 1989.	22	0	0	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+21	22	-1	1	Stone Temple Pilots are an American rock band formed in San Diego ; California ; in 1989 .
+Silverchair were an Australian rock band;	23	0	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+which formed in 1992 in Newcastle;	23	1	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+New South Wales	23	2	0	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+22	23	-1	1	Silverchair were an Australian rock band ; which formed in 1992 in Newcastle ; New South Wales
+The Cure are an English rock band formed in Crawley in 1976	24	0	0	The Cure are an English rock band formed in Crawley in 1976
+23	24	-1	1	The Cure are an English rock band formed in Crawley in 1976
+The Smiths were an English rock band formed in Manchester in 1982	25	0	0	The Smiths were an English rock band formed in Manchester in 1982
+24	25	-1	1	The Smiths were an English rock band formed in Manchester in 1982
+MGMT is an American rock band formed in 2002 in Middletown;	26	0	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+Connecticut	26	1	0	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+25	26	-1	1	MGMT is an American rock band formed in 2002 in Middletown ; Connecticut
+Megadeth is an American heavy metal band formed in Los Angeles in 1983	27	0	0	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+26	27	-1	1	Megadeth is an American heavy metal band formed in Los Angeles in 1983
+Joy Division were an English rock band formed in Salford in 1976.	28	0	0	Joy Division were an English rock band formed in Salford in 1976 .
+27	28	-1	1	Joy Division were an English rock band formed in Salford in 1976 .
+Soundgarden was an American rock band formed in Seattle;	29	0	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+Washington; in 1984	29	1	0	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+28	29	-1	1	Soundgarden was an American rock band formed in Seattle ; Washington ; in 1984
+System of a Down is an Armenian-American heavy metal band formed in Glendale; California; in 1994	30	0	0	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
+29	30	-1	1	System of a Down is an Armenian-American heavy metal band formed in Glendale ; California ; in 1994
